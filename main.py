@@ -38,7 +38,7 @@ elif choice == 'Documentation':
         '''
                 )
 
-    st.image('image.png')
+    #st.image('image.png')
 
     st.markdown('''1. __Upload a file with the data table__, allowed formats [.xlsx, .xls, .csv] maximum size [200 
     MB]. - Column names must be enclosed in __<<field_name>>__. - The table must contain at least the 
